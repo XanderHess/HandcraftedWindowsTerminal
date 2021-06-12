@@ -1,0 +1,30 @@
+{
+	"schemes": [
+		{
+			"name": "Handcrafted",
+
+			"cursorcolor": "#65C032",
+			"selectionBackground": "#3B4854",
+
+			"background": "#101D27",
+			"foreground": "#D1C4B6",
+
+			"black": "#000000",
+			"blue": "#9AA5FF",
+			"cyan": "#389BAC",
+			"green": "#65C032",
+			"purple": "#F585CA",
+			"red": "#FD8877",
+			"white": "#D1C4B6",
+			"yellow": "#B3AE50",
+			"brightBlack": "#4D4D4D",
+			"brightBlue": "#B8C2FF",
+			"brightCyan": "#5EBBCD",
+			"brightGreen": "#88E254",
+			"brightPurple": "#FF9EE3",
+			"brightRed": "#FF9D8B",
+			"brightWhite": "#EEE0D1",
+			"brightYellow": "#D5CF6F"
+		}
+	]
+}
